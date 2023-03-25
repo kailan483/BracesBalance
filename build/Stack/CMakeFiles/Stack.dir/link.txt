@@ -1,0 +1,2 @@
+J:/ProgramFiles/MSYS2/mingw64/bin/ar.exe qc libStack.a CMakeFiles/Stack.dir/src/Stack.cpp.obj
+J:/ProgramFiles/MSYS2/mingw64/bin/ranlib.exe libStack.a
