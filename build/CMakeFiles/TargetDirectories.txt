@@ -1,6 +1,0 @@
-J:/ProgramFiles/Progs/BracesBalance/build/CMakeFiles/main.dir
-J:/ProgramFiles/Progs/BracesBalance/build/CMakeFiles/edit_cache.dir
-J:/ProgramFiles/Progs/BracesBalance/build/CMakeFiles/rebuild_cache.dir
-J:/ProgramFiles/Progs/BracesBalance/build/Stack/CMakeFiles/Stack.dir
-J:/ProgramFiles/Progs/BracesBalance/build/Stack/CMakeFiles/edit_cache.dir
-J:/ProgramFiles/Progs/BracesBalance/build/Stack/CMakeFiles/rebuild_cache.dir
